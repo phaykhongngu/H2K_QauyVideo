@@ -1,1 +1,2 @@
 test nua ne
+them 1 lan nua debug
